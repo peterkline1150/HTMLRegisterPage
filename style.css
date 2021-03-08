@@ -1,0 +1,48 @@
+body {
+    background-color: skyblue;
+    margin: 0px;
+}
+
+nav{
+    background-color: white;
+    padding: 10px;
+    text-align: right;
+}
+
+.nav-items {
+    background-color: skyblue;
+    color: white;
+    padding: 3px;
+    border: 1px solid black;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.header{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.textbox{
+    text-align: center;
+}
+
+.main-div{
+    background-color: white;
+    width: fit-content;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 100px;
+
+}
